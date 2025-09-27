@@ -1,0 +1,19 @@
+{
+  "name": "trabalho-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^17.2.2",
+    "fastify": "^5.6.1",
+    "fastify-plugin": "^5.0.1",
+    "knex": "^3.1.0",
+    "mysql2": "^3.15.1"
+  },
+  "description": ""
+}
